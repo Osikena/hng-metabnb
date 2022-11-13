@@ -1,0 +1,11 @@
+#PlaceToStay-main-container{
+    margin: 0px;
+    padding: 0px;
+    /* border: 5px solid red; */
+}
+#PlaceToStay-row{
+    margin: 0px;
+    padding: 0px;
+    /* border: 5px solid green; */
+    margin-bottom: 12vh;
+}

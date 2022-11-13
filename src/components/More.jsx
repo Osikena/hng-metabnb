@@ -1,0 +1,41 @@
+import 'bootstrap/dist/css/bootstrap.min.css'
+// import MoreImage1 from '../images/More Image 1.png'
+// import MoreImage2 from '../images/More Image 2.png'
+// import MoreImage3 from '../images/More Image 3.png'
+import MoreImage4 from '../images/More Image 4.png'
+
+function More() {
+  return (
+    <div className="container-fluid" id='More-main-container'>
+
+        <div className="row" id='More-row'>
+
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6" id='More-col-1'>
+                <h4 id='More-maintext'>Metabnb NFTs</h4>
+
+                <p id='More-subtext'>Discover our NFT gift cards collection. Loyal <br />
+                customers gets amazing gift cards which are <br />
+                traded as NFTs. These NFTs gives our cutomer <br />
+                access to loads of our exclusive services.</p>
+
+                <button id='More-btn'>Learn More</button>
+            </div>
+
+            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6" id='More-col-2'>
+
+                {/* <img src={MoreImage1} alt="MoreImage1" id='MoreImage1' />
+
+                <img src={MoreImage2} alt="MoreImage2" id='MoreImage2' />
+
+                <img src={MoreImage3} alt="MoreImage3" id='MoreImage3' /> */}
+
+                <img src={MoreImage4} alt="MoreImage4" height={500} width={500} id='MoreImage4' />
+
+            </div>
+
+        </div>
+    </div>
+  )
+}
+
+export default More
