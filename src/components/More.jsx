@@ -1,7 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-// import MoreImage1 from '../images/More Image 1.png'
-// import MoreImage2 from '../images/More Image 2.png'
-// import MoreImage3 from '../images/More Image 3.png'
 import MoreImage4 from '../images/More Image 4.png'
 
 function More() {
@@ -22,14 +19,8 @@ function More() {
             </div>
 
             <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6" id='More-col-2'>
-
-                {/* <img src={MoreImage1} alt="MoreImage1" id='MoreImage1' />
-
-                <img src={MoreImage2} alt="MoreImage2" id='MoreImage2' />
-
-                <img src={MoreImage3} alt="MoreImage3" id='MoreImage3' /> */}
-
-                <img src={MoreImage4} alt="MoreImage4" height={500} width={500} id='MoreImage4' />
+              
+                <img src={MoreImage4} alt="MoreImage4"  id='MoreImage4' />
 
             </div>
 

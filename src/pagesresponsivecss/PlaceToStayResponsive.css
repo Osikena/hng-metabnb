@@ -1,0 +1,148 @@
+
+@media (max-width: 576px) {
+
+
+    #PlaceToStayNav-main-container{
+        margin-bottom: 4vh;
+    }
+    #PlaceToStayNav-toggle-btn{
+        outline: none;
+        box-shadow: none;
+    }
+    #PlaceToStayNav-nav-1, #PlaceToStayNav-nav-2, #PlaceToStayNav-nav-3, #PlaceToStayNav-nav-4, 
+    #PlaceToStayNav-nav-5, #PlaceToStayNav-nav-6, #PlaceToStayNav-nav-7, #PlaceToStayNav-nav-8{
+        margin: 0px;
+        padding: 0px;
+        justify-content: flex-start;
+        padding-left: 5vw;
+        margin-bottom: 2vh;
+    }
+    #PlaceToStayNav-nav-1{
+        margin-top: 2vh;
+    }
+    #PlaceToStayNav-nav-9{
+        margin: 0px;
+        width: 100%;
+        padding-left: 3vw;
+        padding-right: 10vw;
+        margin-bottom: 2vh;
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media (max-width: 768px) {
+
+
+
+
+
+
+
+    #PlaceToStayNav-main-container{
+        margin-bottom: 4vh;
+    }
+    #PlaceToStayNav-toggle-btn{
+        outline: none;
+        box-shadow: none;
+    }
+    #PlaceToStayNav-nav-1, #PlaceToStayNav-nav-2, #PlaceToStayNav-nav-3, #PlaceToStayNav-nav-4, 
+    #PlaceToStayNav-nav-5, #PlaceToStayNav-nav-6, #PlaceToStayNav-nav-7, #PlaceToStayNav-nav-8{
+        margin: 0px;
+        padding: 0px;
+        justify-content: flex-start;
+        padding-left: 5vw;
+        margin-bottom: 2vh;
+    }
+    #PlaceToStayNav-nav-1{
+        margin-top: 2vh;
+    }
+    #PlaceToStayNav-nav-9{
+        margin: 0px;
+        width: 100%;
+        padding-left: 3vw;
+        padding-right: 10vw;
+        margin-bottom: 2vh;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 992px) {
+
+
+
+
+
+
+    #PlaceToStayNav-main-container{
+        margin-bottom: 4vh;
+    }
+    #PlaceToStayNav-toggle-btn{
+        outline: none;
+        box-shadow: none;
+    }
+    #PlaceToStayNav-nav-1, #PlaceToStayNav-nav-2, #PlaceToStayNav-nav-3, #PlaceToStayNav-nav-4, 
+    #PlaceToStayNav-nav-5, #PlaceToStayNav-nav-6, #PlaceToStayNav-nav-7, #PlaceToStayNav-nav-8{
+        margin: 0px;
+        padding: 0px;
+        justify-content: flex-start;
+        padding-left: 5vw;
+        margin-bottom: 2vh;
+    }
+    #PlaceToStayNav-nav-1{
+        margin-top: 2vh;
+    }
+    #PlaceToStayNav-nav-9{
+        margin: 0px;
+        width: 100%;
+        padding-left: 3vw;
+        padding-right: 10vw;
+        margin-bottom: 2vh;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

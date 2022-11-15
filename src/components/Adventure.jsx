@@ -1,6 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import AdventureComp from './AdventureComp'
-// import BannerImage1 from '../images/Banner Image 1.png'
+import AdventureComp1 from '../images/AdventureComp 1.png'
+import AdventureComp2 from '../images/AdventureComp 2.png'
+import AdventureComp3 from '../images/AdventureComp 3.png'
+import AdventureComp4 from '../images/AdventureComp 4.png'
+import AdventureComp5 from '../images/AdventureComp 5.png'
+import AdventureComp6 from '../images/AdventureComp 6.png'
+import AdventureComp7 from '../images/AdventureComp 7.png'
+import AdventureComp8 from '../images/AdventureComp 8.png'
 
 
 function Adventure() {
@@ -11,21 +18,21 @@ function Adventure() {
 
         <div className="row" id='Adventure-main-row'>
             
-            <AdventureComp />
+            <AdventureComp image={AdventureComp1} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp2} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp3} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp4} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp5} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp6} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp7} />
 
-            <AdventureComp />
+            <AdventureComp image={AdventureComp8} />
 
         </div>
 

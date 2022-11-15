@@ -1,11 +1,74 @@
 #PlaceToStay-main-container{
     margin: 0px;
     padding: 0px;
-    /* border: 5px solid red; */
+    padding-left: 6vw;
+    padding-right: 6vw;
 }
+
+#PlaceToStayNav-main-container{
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 8vh;
+}
+#PlaceToStayNav-nav-list{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #434343;
+}
+#PlaceToStayNav-nav-1{
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+#PlaceToStayNav-nav-2, #PlaceToStayNav-nav-3, #PlaceToStayNav-nav-4, #PlaceToStayNav-nav-5, #PlaceToStayNav-nav-6, #PlaceToStayNav-nav-7, #PlaceToStayNav-nav-8{
+    margin-left: 4vw;
+    height: 6vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+#PlaceToStayNav-nav-9{
+    margin-left: 6vw;
+    background: linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%);
+    border: 1px solid #B4B4B4;
+    border-radius: 8px;
+    height: 6vh;
+    width: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+#PlaceToStayNav-nav-9-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #434343;
+}
+#PlaceToStayNav-nav-9-div1{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 80%;
+    padding-left: 1vw;
+}
+#PlaceToStayNav-nav-9-div2{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 20%;
+    padding-right: 1vw;
+}
+
+
+
+
 #PlaceToStay-row{
     margin: 0px;
     padding: 0px;
-    /* border: 5px solid green; */
     margin-bottom: 12vh;
 }

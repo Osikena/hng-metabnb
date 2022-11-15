@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import AdventureComp1 from '../images/AdventureComp 1.png'
+// import AdventureComp1 from '../images/AdventureComp 1.png'
 import AdventureCompIcon from '../icons/AdventureComp Icon.png'
 
 function AdventureComp(props) {
@@ -9,7 +9,7 @@ function AdventureComp(props) {
         <div className="container-fluid" id='AdventureComp-main-col-container'>
 
             <div id='AdventureComp-div-1'>
-                <img src={AdventureComp1} alt="AdventureComp1"  id='AdventureCompImage' />
+                <img src={props.image} alt="AdventureComp1"  id='AdventureCompImage' />
             </div>
 
             <div id='AdventureComp-div-2'>
